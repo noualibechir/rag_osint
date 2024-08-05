@@ -9,10 +9,10 @@ Welcome to the RAG OSINT Tool Demo repository! This Demo showcases a sophisticat
 
 ## Key Features:
 
-   - **Advanced Data Collection:** Utilize RAG to efficiently gather data from a multitude of online sources.
-   - **Enhanced Data Analysis:** Perform advanced analysis on the collected data using RAG capabilities.
-   - **User-Friendly Interface:** Experience an intuitive interface designed for ease of use and efficiency.
-   - **OS Interaction:** Execute code directly from the prompt, providing real-time, relevant, and actionable intelligence.
+   - [x] **Advanced Data Collection:** Utilize RAG to efficiently gather data from a multitude of online sources.
+   - [x] **Enhanced Data Analysis:** Perform advanced analysis on the collected data using RAG capabilities.
+   - [x] **User-Friendly Interface:** Experience an intuitive interface designed for ease of use and efficiency.
+   - [x] **OS Interaction:** Execute code directly from the prompt, providing real-time, relevant, and actionable intelligence.
 
 ## Installation
 1. Clone repo
