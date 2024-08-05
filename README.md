@@ -1,4 +1,4 @@
-# Rag Osint Passive reconnaissance
+# Rag Osint Passive reconnaissance 🕵️‍♂️
 
 > [!WARNING]
 > This Tool Is For Educational Purposes Only, Please don't use this for malicious purposes!
@@ -9,10 +9,10 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
 
 ## 2. Key Features:
 
-   - [x] **Advanced Data Collection:** Utilize RAG to efficiently gather data from a multitude of online sources.
-   - [x] **Enhanced Data Analysis:** Perform advanced analysis on the collected data using RAG capabilities.
-   - [x] **User-Friendly Interface:** Experience an intuitive interface designed for ease of use and efficiency.
-   - [x] **OS Interaction:** Execute code directly from the prompt, providing real-time, relevant, and actionable intelligence.
+   - [x] 🌐 **Advanced Data Collection:** Utilize RAG to efficiently gather data from a multitude of online sources.
+   - [x] 🧠 **Enhanced Data Analysis:** Perform advanced analysis on the collected data using RAG capabilities.
+   - [x] 😊 **User-Friendly Interface:** Experience an intuitive interface designed for ease of use and efficiency.
+   - [x] 🖥️ **OS Interaction:** Execute code directly from the prompt, providing real-time, relevant, and actionable intelligence.
 
 ## 3. Installation:
 
@@ -95,7 +95,7 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
 3. **Step 4: Creating Potential Passwords for Brute Force Attacks**
    - Use the tool to create combinations and permutations of the gathered information.
    - Generate a list of potential passwords that can be used for security testing and vulnerability assessment.
-
+![video](assets/video_tuto.mp4)
 
 
 ## 5. Acknowledgements 🙏 :
