@@ -3,18 +3,19 @@
 > [!WARNING]
 > This Tool Is For Educational Purposes Only, Please don't use this for malicious purposes!
 
-## Introduction:
+## 1. Introduction:
 
-Welcome to the RAG OSINT Tool Demo repository! This Demo showcases a sophisticated tool designed for **Open Source Intelligence (OSINT)**, utilizing Retrieval-Augmented Generation (RAG) to enhance data collection and analysis from publicly available online sources. This demo is intended to provide a clear understanding of the capabilities and potential of our RAG OSINT tool.
+Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophisticated tool designed for **Open Source Intelligence (OSINT)**, utilizing Retrieval-Augmented Generation (RAG) to enhance data collection and analysis from publicly available online sources. This demo is intended to provide a clear understanding of the capabilities and potential of our RAG OSINT tool.
 
-## Key Features:
+## 2. Key Features:
 
    - [x] **Advanced Data Collection:** Utilize RAG to efficiently gather data from a multitude of online sources.
    - [x] **Enhanced Data Analysis:** Perform advanced analysis on the collected data using RAG capabilities.
    - [x] **User-Friendly Interface:** Experience an intuitive interface designed for ease of use and efficiency.
    - [x] **OS Interaction:** Execute code directly from the prompt, providing real-time, relevant, and actionable intelligence.
 
-## Installation
+## 3. Installation:
+
 1. Clone repo
    ``` bash
       git clone https://github.com/noualibechir/rag_osint.git #change to the right one
@@ -81,7 +82,7 @@ Welcome to the RAG OSINT Tool Demo repository! This Demo showcases a sophisticat
    ```bash
       streamlit run app.py --server.address==localhost 
    ```
-## Tutorial:
+## 4. Tutorial:
  This tutorial will guide you through the process of gathering information and creating a list of potential passwords for brute force attacks using the RAG OSINT tool as an example.
 
  1. **Step 1: Web Research with RAG**
@@ -97,7 +98,7 @@ Welcome to the RAG OSINT Tool Demo repository! This Demo showcases a sophisticat
 
 
 
-## Acknowledgements:
+## 5. Acknowledgements 🙏 :
 
  We extend our deepest gratitude to the following organizations for their invaluable contributions and support in the development of this project:
 
@@ -108,4 +109,4 @@ Welcome to the RAG OSINT Tool Demo repository! This Demo showcases a sophisticat
 
  Your support and resources have been instrumental in bringing this project to life. Thank you!
 
- ## Special thanks for target role: Chuck Keith
+ ## Special thanks for the target role: Chuck Keith (Networkchuck) 
