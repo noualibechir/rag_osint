@@ -14,14 +14,13 @@ Welcome to the RAG OSINT Tool Demo repository! This Demo showcases a sophisticat
 
 ### Installation
 1. Clone repo
-   ```bash
+   ``` bash
    git clone https://github.com/noualibechir/streamlit_tsne.git #change to the right one
    cd rag_osint
-   
    ```
 2. Create a new environment 
-    ```bash
-     python -m venv .env
+    ``` bash
+    python -m venv .env
     ```
 3. Activate the new environment
 
@@ -96,10 +95,10 @@ Welcome to the RAG OSINT Tool Demo repository! This Demo showcases a sophisticat
 
  We extend our deepest gratitude to the following organizations for their invaluable contributions and support in the development of this project:
 
-   -**[Ollama](https://ollama.com/)**: For their cutting-edge solutions and support that have significantly contributed to the success of this project.
-   -**[Groq](https://groq.com/)**: For their innovative hardware solutions that enhance our computational capabilities and efficiency.
-   -**[Phidata](https://www.phidata.com/)**: For their exceptional data management and analytics solutions that help in refining and optimizing our processes.
-   -**[Streamlit](https://streamlit.io/)**: For their fantastic framework that allows us to create interactive and user-friendly applications with ease.
+   - **[Ollama](https://ollama.com/)**: For their cutting-edge solutions and support that have significantly contributed to the success of this project.
+   - **[Groq](https://groq.com/)**: For their innovative hardware solutions that enhance our computational capabilities and efficiency.
+   - **[Phidata](https://www.phidata.com/)**: For their exceptional data management and analytics solutions that help in refining and optimizing our processes.
+   - **[Streamlit](https://streamlit.io/)**: For their fantastic framework that allows us to create interactive and user-friendly applications with ease.
 
  Your support and resources have been instrumental in bringing this project to life. Thank you!
 
