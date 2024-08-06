@@ -83,6 +83,7 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
       streamlit run app.py --server.address==localhost 
    ```
 ## 4. Tutorial:
+
 <video width="800" controls>
   <source src="https://noualibechir.github.io/rag_osint/assets/video_tuto.mp4" type="video/mp4">
 </video>
