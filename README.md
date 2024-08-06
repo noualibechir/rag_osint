@@ -95,7 +95,6 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
 3. **Step 3: Creating Potential Passwords for Brute Force Attacks** 🔓
    - Use the tool to create combinations and permutations of the gathered information.
    - Generate a list of potential passwords that can be used for security testing and vulnerability assessment.
-
 <video width="600" controls>
   <source src="https://noualibechir.github.io/rag_osint/assets/video_tuto.mp4" type="video/mp4">
 </video>
