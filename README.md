@@ -83,6 +83,10 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
       streamlit run app.py --server.address==localhost 
    ```
 ## 4. Tutorial:
+<video width="800" controls>
+  <source src="https://noualibechir.github.io/rag_osint/assets/video_tuto.mp4" type="video/mp4">
+</video>
+
  This tutorial will guide you through the process of gathering information and creating a list of potential passwords for brute force attacks using the RAG OSINT tool as an example.
 
  1. **Step 1: Web Research with RAG** 🌐🔍
@@ -95,10 +99,6 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
 3. **Step 3: Creating Potential Passwords for Brute Force Attacks** 🔓
    - Use the tool to create combinations and permutations of the gathered information.
    - Generate a list of potential passwords that can be used for security testing and vulnerability assessment.
-
-<video width="800" controls>
-  <source src="https://noualibechir.github.io/rag_osint/assets/video_tuto.mp4" type="video/mp4">
-</video>
 
 ## 5. Acknowledgements 🙏 :
 
