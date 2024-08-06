@@ -84,9 +84,7 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
    ```
 ## 4. Tutorial:
 
-<video width="800" controls>
-  <source src="https://noualibechir.github.io/rag_osint/assets/video_tuto.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://img.youtube.com/vi/5UDX38X4_WE/maxresdefault.jpg)](https://youtu.be/5UDX38X4_WE)
 
  This tutorial will guide you through the process of gathering information and creating a list of potential passwords for brute force attacks using the RAG OSINT tool as an example.
 
