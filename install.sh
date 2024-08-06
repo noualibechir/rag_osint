@@ -6,4 +6,8 @@ sudo apt install -y docker.io
 sudo systemctl enable docker --now
 sudo usermod -aG docker $USER
 
+#install sherlock
+sudo apt install sherlock
+
+#install dependencies
 pip install -r requirements.txt

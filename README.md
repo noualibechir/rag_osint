@@ -70,7 +70,7 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
 
    ```
 
-6. Run pgvector:
+6. Run ollama & pgvector:
 
    ```bash
       ollama run nomic-embed-text
