@@ -85,14 +85,14 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
 ## 4. Tutorial:
  This tutorial will guide you through the process of gathering information and creating a list of potential passwords for brute force attacks using the RAG OSINT tool as an example.
 
- 1. **Step 1: Web Research with RAG**
+ 1. **Step 1: Web Research with RAG** 🌐🔍
    - Gather profiles(social media), articles and mentions of the target from various online sources.
    - Finding URLs/Documents related to the target.
 
-2. **Step 2: Adding Knowledge to LLM**
+2. **Step 2: Adding Knowledge to LLM** 📚 
    - Input the collected data into the tool to augment its knowledge base.
 
-3. **Step 4: Creating Potential Passwords for Brute Force Attacks**
+3. **Step 3: Creating Potential Passwords for Brute Force Attacks** 🔓
    - Use the tool to create combinations and permutations of the gathered information.
    - Generate a list of potential passwords that can be used for security testing and vulnerability assessment.
 ![video](assets/video_tuto.mp4)
