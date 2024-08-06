@@ -97,7 +97,7 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
    - Generate a list of potential passwords that can be used for security testing and vulnerability assessment.
 
 <video width="600" controls>
-  <source src="https://github.com/noualibechir/rag_osint/blob/main/assets/video_tuto.mp4" type="video/mp4">
+  <source src="https://noualibechir.github.io/rag_osint/assets/video_tuto.mp4" type="video/mp4">
 </video>
 
 ## 5. Acknowledgements 🙏 :
