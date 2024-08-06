@@ -98,7 +98,6 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
 
 <video width="600" controls>
   <source src="assets/video_tuto.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ## 5. Acknowledgements 🙏 :
