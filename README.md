@@ -94,16 +94,16 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
    - Gather profiles(social media), articles and mentions of the target from various online sources.
    - Finding URLs/Documents related to the target.
 
-2. **Step 2: Adding Knowledge to LLM** 📚 
+ 2. **Step 2: Adding Knowledge to LLM** 📚 
    - Input the collected data into the tool to augment its knowledge base.
 
-3. **Step 3: Creating Potential Passwords for Brute Force Attacks** 🔓
+ 3. **Step 3: Creating Potential Passwords for Brute Force Attacks** 🔓
    - Use the tool to create combinations and permutations of the gathered information.
    - Generate a list of potential passwords that can be used for security testing and vulnerability assessment.
 
 ## 5. Acknowledgements 🙏 :
 
- We extend our deepest gratitude to the following organizations for their invaluable contributions and support in the development of this project:
+We extend our deepest gratitude to the following organizations for their invaluable contributions and support in the development of this project:
 
    - **[Ollama](https://ollama.com/)**: For their cutting-edge solutions and support that have significantly contributed to the success of this project.
    - **[Groq](https://groq.com/)**: For their innovative hardware solutions that enhance our computational capabilities and efficiency.
