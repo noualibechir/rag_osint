@@ -98,6 +98,9 @@ Welcome to the RAG OSINT Tool 🔍 Demo repository! This Demo showcases a sophis
    - Use the tool to create combinations and permutations of the gathered information.
    - Generate a list of potential passwords that can be used for security testing and vulnerability assessment.
 
+
+[![Watch the video](https://img.youtube.com/vi/5UDX38X4_WE/maxresdefault.jpg)](https://youtu.be/5UDX38X4_WE)
+
 ## 5. Acknowledgements 🙏 :
 
 We extend our deepest gratitude to the following organizations for their invaluable contributions and support in the development of this project:
